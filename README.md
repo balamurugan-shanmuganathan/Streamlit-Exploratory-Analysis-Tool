@@ -14,6 +14,8 @@
 ### Demo
 **Link** : [https://eda-tool-bala.herokuapp.com/](https://eda-tool-bala.herokuapp.com/)
 
+![Demo](AppDemo/EDA-Demo.gif)
+
 ### Overview
 This is a simple application to getting basic information and quick data visualization for generic csv file. It is not complete tool and Very large files will reduce application performance.
 
