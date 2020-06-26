@@ -116,7 +116,7 @@ class DescriptiveAnalysis:
 
         try:
             unique_values = self.df[column_target].value_counts().to_frame().reset_index()
-            unique_values.sort_values(by='index', inplace=True, ignore_index=True)
+            unique_values.sort_values(by='index', inplace=True)
             unique_values.rename(columns={'index':column_target, '{}'.format(column_target):"Values Frequency"}, inplace=True)
             return unique_values
         except Exception as e:
