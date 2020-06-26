@@ -42,8 +42,9 @@ streamlit run app.py
 
 ### Deployement on Heroku
 To run app in heroku below mentioned files should be in our repo
-   [Procfile](https://github.com/balamurugan-shanmuganathan/Exploratory-Analysis-Tool/blob/master/Procfile)
-   [Setup.sh](https://github.com/balamurugan-shanmuganathan/Exploratory-Analysis-Tool/blob/master/setup.sh)
+   * [Procfile](https://github.com/balamurugan-shanmuganathan/Exploratory-Analysis-Tool/blob/master/Procfile)
+   
+   * [Setup.sh](https://github.com/balamurugan-shanmuganathan/Exploratory-Analysis-Tool/blob/master/setup.sh)
 
 ### Directory Tree
     ├── DescriptiveAnalysis 
